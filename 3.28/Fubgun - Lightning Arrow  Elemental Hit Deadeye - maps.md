@@ -1,130 +1,263 @@
-<span style="color: #E05030">PoB de montée de niveau</span>: https://pobb.in/nvwafAtb6v0z (Revenez à ce PoB après les actes)
+# Guide de Maps - Lightning Arrow / Elemental Hit Deadeye
+
+**🔴 PoB de montée de niveau**: https://pobb.in/nvwafAtb6v0z (Revenez à ce PoB après les actes)
 
 Les tatouages peuvent être vitesse de déplacement, vitesse de projectile, suppression de sorts ou précision si nécessaire. (rappelez-vous que la vitesse de projectile = dégâts grâce à votre maîtrise d'arc)
 
----<span style="color: #70FF70">Frappe élémentaire</span> vs <span style="color: #70FF70">Flèche foudroyante</span> vs <span style="color: #70FF70">Tir tornade</span>?
-<span style="color: #70FF70">Frappe élémentaire</span> est de loin la meilleure option à petit budget car c'est la seule compétence d'arc qui fournit une quantité massive de dégâts plats, une statistique qui vous manque à petit budget/début de ligue.
-<span style="color: #70FF70">Flèche foudroyante</span> finit par être beaucoup plus agréable à jouer une fois que vous avez un très bon arc/hyrri pour compenser le faible flat, c'est aussi meilleur pour la conversion physique quand vous passez à un arc Miroir.
-<span style="color: #70FF70">Tir tornade</span> est généralement le pire clear des 3 de nos jours, mais offre l'option de dégâts single target la plus élevée des 3. Notez que cette compétence est vraiment mauvaise à petit budget.
+---
+
+## 🟢`Frappe élémentaire` vs 🟢`Flèche foudroyante` vs 🟢`Tir tornade`?
+
+🟢**`Frappe élémentaire`** est de loin la meilleure option à petit budget car c'est la seule compétence d'arc qui fournit une quantité massive de dégâts plats, une statistique qui vous manque à petit budget/début de ligue.
+
+🟢**`Flèche foudroyante`** finit par être beaucoup plus agréable à jouer une fois que vous avez un très bon arc/hyrri pour compenser le faible flat, c'est aussi meilleur pour la conversion physique quand vous passez à un arc Miroir.
+
+🟢**`Tir tornade`** est généralement le pire clear des 3 de nos jours, mais offre l'option de dégâts single target la plus élevée des 3. Notez que cette compétence est vraiment mauvaise à petit budget.
+
 Si vous voulez jouer tir tornade, je conseille généralement d'attendre d'acquérir un arc +2, sinon le clear peut sembler assez mauvais. C'est toujours une option acceptable de swap plus tôt si vous faites du rush de boss et n'avez pas besoin de clear.
 
-<span style="color: #E05030">Panthéon:</span>
+---
+
+## 🔴 **Panthéon:**
+
 Âme du roi des saumures jusqu'à ce que vous soyez immunisé aux altérations (100% de chance d'éviter les altérations élémentaires ou pureté des éléments), après vous pouvez passer à solaris ou lunaris.
+
 Le panthéon mineur est soit Ralakesh soit Shakari, selon si vous êtes plus faible face au saignement ou au poison.
 
----<span style="color: #70FF70">Deadeye</span> ou <span style="color: #70FF70">Warden</span>?
+---
+
+## 🟢 **Deadeye** ou 🟢 **Warden**?
+
 Vous ne jouez warden que lorsque vous avez besoin de dégâts single target très élevés, généralement ce scénario concerne les cartes t17/cauchemar, car les boss peuvent être extrêmement tankys.
+
 Pour la progression d'atlas, 4 pierres et mapping t16/t16.5, deadeye est juste le choix supérieur. +2 flèches est extrêmement précieux au début car vous n'avez pas encore de +flèches sur arc/carquois. Tailwind/chaîne est aussi extrêmement fort.
+
 Et éventuellement, quand vous obtenez un ff/ff, alors warden perd beaucoup de valeur, puisque vous pouvez obtenir oath of spring ou avatar of the wilds et avoir des dégâts single target massifs sur deadeye.
+
 Gardez donc à l'esprit ici que le build Warden que j'ai est pur single target (prenant point blank, pas de fledging). Bien sûr, vous pourriez abandonner point blank si vous avez déjà assez de dégâts.
 
----<span style="color: #7070FF">Trinité</span>
+---
+
+## 🔵 **Trinité**
+
 Une idée fausse courante avec trinité est qu'il faut infliger des dégâts égaux avec 3 éléments. Vous n'avez besoin que de 2 éléments pour obtenir l'effet maximum de trinité.
+
 La frappe élémentaire est très facile pour faire fonctionner trinité. Si vous utilisez colère et avez un arc avec des dégâts de feu très élevés sans autre élément, alors vous pourriez rencontrer des problèmes, mais c'est peu probable. Si cela arrive, remplacez simplement colère par une autre aura à 50% (grâce ou hâte).
+
 Vous saurez si vous avez trop d'un élément, car cette barre d'élément ne se remplira pas dans l'interface de trinité.
 
----<span style="color: #AF6025">Apprentissage inspiré</span>, en ai-je besoin/quel est le but?
+---
+
+## 🟠 **`Apprentissage inspiré`**, en ai-je besoin/quel est le but?
+
 Ce joyau unique sert simplement de mini-hh et il n'est bon que dans le contenu qui fait apparaître beaucoup de rares, comme la légion par exemple.
+
 Si vous ne faites pas de contenu avec beaucoup de rares, alors je sauterais ce loadout et passerais au suivant.
 
----<span style="color: #AF6025">Fledging</span> vs pas de fledging et dégâts single target optimaux. - <span style="color: #7070FF">Oui, farshot du casque et de l'ascendance se cumulent ensemble, vous donnant 90% de dégâts en plus. Ce sont des modificateurs différents.</span>
-<span style="color: #AF6025">Fledging</span> est de loin le meilleur choix pour le pur blast de cartes, car c'est souvent 60% de dégâts en plus à 70m, mais c'est une downgrade sur le bossing et quelque chose dont vous vous séparez si vous faites du contenu de boss tôt.
-Pour les dégâts purs de boss, il est optimal d'être à portée de point blank, pour obtenir constamment un double coup avec votre LA/frappe élémentaire - Vous n'obtiendrez pas de double coup si vous êtes à la portée de far shot, car la tornade apparaît près de vous.
-Cela signifie que si vous faites du contenu de boss, il est préférable de cliquer sur point blank dans votre arbre de compétences et de rester au corps à corps contre les boss et il serait préférable d'abandonner le retour de projectile pour un autre support de dégâts <span style="color: #E05030">(inspiration)</span>
-Gardez à l'esprit que cela change radicalement lorsque vous acquérez <span style="color: #AF6025">Nimi's</span>, car l'anneau rend fledging optimal à la fois pour le bossing et le mapping, car vous pouvez rester au corps à corps et obtenir quand même la valeur maximale de far shot.
+---
 
----<span style="color: #E05030">Peau d'acier</span> vs <span style="color: #E05030">Appel immortel</span>?
+## 🟠 **`Fledging`** vs pas de fledging et dégâts single target optimaux
+
+🔵 **Oui, farshot du casque et de l'ascendance se cumulent ensemble, vous donnant 90% de dégâts en plus. Ce sont des modificateurs différents.**
+
+🟠**`Fledging`** est de loin le meilleur choix pour le pur blast de cartes, car c'est souvent 60% de dégâts en plus à 70m, mais c'est une downgrade sur le bossing et quelque chose dont vous vous séparez si vous faites du contenu de boss tôt.
+
+Pour les dégâts purs de boss, il est optimal d'être à portée de point blank, pour obtenir constamment un double coup avec votre LA/frappe élémentaire - Vous n'obtiendrez pas de double coup si vous êtes à la portée de far shot, car la tornade apparaît près de vous.
+
+Cela signifie que si vous faites du contenu de boss, il est préférable de cliquer sur point blank dans votre arbre de compétences et de rester au corps à corps contre les boss et il serait préférable d'abandonner le retour de projectile pour un autre support de dégâts 🔴**`(inspiration)`**
+
+Gardez à l'esprit que cela change radicalement lorsque vous acquérez 🟠**`Nimi's`**, car l'anneau rend fledging optimal à la fois pour le bossing et le mapping, car vous pouvez rester au corps à corps et obtenir quand même la valeur maximale de far shot.
+
+---
+
+## 🔴 **`Peau d'acier`** vs 🔴 **`Appel immortel`**?
+
 Peau d'acier est généralement la meilleure compétence de garde à utiliser, mais nécessite un niveau de force élevé. Généralement, j'utiliserais appel immortel jusqu'à ce que vous acquériez un lethal pride, ce qui résout ensuite tous vos problèmes de force, ce qui signifie que vous pouvez passer à peau d'acier.
 
----<span style="color: #AF6025">Hyrri's Ire</span> vs <span style="color: #AF6025">Daresso's</span> vs <span style="color: #FFFF77">Plastron rare</span>
-Sur frappe élémentaire, <span style="color: #AF6025">daresso's</span> est à peu près égal en DPS à hyrri's, mais ne fournit pas 30% de suppression de sorts. Le plastron est extrêmement bon marché cependant, alors que hyrri's coûte généralement 7-10d au début de ligue. 20% MS est aussi très agréable tôt avec daresso's
-<span style="color: #AF6025">Hyrri's ire</span> est l'option de dégâts la plus élevée, mais peut être coûteuse au début de ligue. Si vous jouez flèche foudroyante plutôt que frappe élémentaire, alors je viserais ce plastron car le flat fournit une augmentation plus importante pour cette compétence vs frappe élémentaire.
-<span style="color: #FFFF77">Plastron rare</span> est la meilleure option mais l'option la plus chère. Vous permet d'égaler les dps de hyrri's, tout en fournissant de la résistance ou des attributs et en donnant une évasion équivalente - N'optez pas pour cette option tant que vous ne pouvez pas faire un plastron tout T1-T2.
+---
 
----<span style="color: #AF6025">Hyrri's truth</span> vs <span style="color: #AF6025">Joug de la souffrance</span>
+## 🟠**`Hyrri's Ire`** vs 🟠**`Daresso's`** vs 💛**Plastron rare**
+
+Sur frappe élémentaire, 🟠**`Daresso's`** est à peu près égal en DPS à hyrri's, mais ne fournit pas 30% de suppression de sorts. Le plastron est extrêmement bon marché cependant, alors que hyrri's coûte généralement 7-10d au début de ligue. 20% MS est aussi très agréable tôt avec daresso's
+
+🟠**`Hyrri's ire`** est l'option de dégâts la plus élevée, mais peut être coûteuse au début de ligue. Si vous jouez flèche foudroyante plutôt que frappe élémentaire, alors je viserais ce plastron car le flat fournit une augmentation plus importante pour cette compétence vs frappe élémentaire.
+
+💛**Plastron rare** est la meilleure option mais l'option la plus chère. Vous permet d'égaler les dps de hyrri's, tout en fournissant de la résistance ou des attributs et en donnant une évasion équivalente - N'optez pas pour cette option tant que vous ne pouvez pas faire un plastron tout T1-T2.
+
+---
+
+## 🟠**`Hyrri's truth`** vs 🟠**`Joug de la souffrance`**
+
 Le joug est la meilleure option mais aussi beaucoup plus cher, tandis que hyrri's est extrêmement bon marché et efficace. Le joug est une option assez late game, la principale raison de passer au joug est d'aider avec les résistances.
 
-----Quelles auras à 50% utiliser? <span style="color: #70FF70">Grâce</span> - <span style="color: #70FF70">Hâte</span> - <span style="color: #E05030">Colère</span> - <span style="color: #7070FF">Pureté des éléments</span>
-Colère n'est vraiment utilisée que lorsque vous pouvez utiliser 3 auras à 50%, car les dégâts qu'elle fournit ne sont pas massifs en jouant frappe élémentaire. A plus de valeur si vous jouez flèche foudroyante à cause du flat.
-Au début du jeu, vous allez généralement utiliser <span style="color: #7070FF">Pureté des éléments</span> avec <span style="color: #70FF70">hâte</span> ou <span style="color: #70FF70">grâce</span> sur frappe élémentaire. Cela dépend si vous voulez plus de vitesse vs une évasion plus élevée pour la défense.
-<span style="color: #7070FF">Pureté des éléments</span> aide simplement avec les résistances et donne une immunité aux altérations bon marché, plus tard quand vous pouvez vous permettre une <span style="color: #AF6025">Vision ancestrale</span>, vous abandonnerez <span style="color: #7070FF">Pureté des éléments</span>.
-Vous pouvez également abandonner <span style="color: #7070FF">Pureté des éléments</span> après avoir obtenu des tamings, car ils donnent une grande quantité de résistance.
-Gardez à l'esprit que lorsque vous abandonnez la pureté des éléments, vous voudrez atteindre 100 d'évitement d'altération. Vous obtiendrez 50% de la vision ancestrale, 30% de l'implicite de bottes et 20% de la roue de vie thick skin dans l'arbre.
-En entrant dans les cartes, je préfère utiliser <span style="color: #70FF70">hâte</span> et <span style="color: #E05030">colère</span> et échanger l'une d'elles contre <span style="color: #70FF70">grâce</span> dans les cartes rouges (t11+)
+---
 
----<span style="color: #AF6025">Lethal pride</span>
+## Quelles auras à 50% utiliser? 💚**Grâce** - 💚**Hâte** - 🔴**Colère** - 🔵**Pureté des éléments**
+
+Colère n'est vraiment utilisée que lorsque vous pouvez utiliser 3 auras à 50%, car les dégâts qu'elle fournit ne sont pas massifs en jouant frappe élémentaire. A plus de valeur si vous jouez flèche foudroyante à cause du flat.
+
+Au début du jeu, vous allez généralement utiliser 🔵**Pureté des éléments** avec 💚**hâte** ou 💚**grâce** sur frappe élémentaire. Cela dépend si vous voulez plus de vitesse vs une évasion plus élevée pour la défense.
+
+🔵**Pureté des éléments** aide simplement avec les résistances et donne une immunité aux altérations bon marché, plus tard quand vous pouvez vous permettre une 🟠**Vision ancestrale**, vous abandonnerez 🔵**Pureté des éléments**.
+
+Vous pouvez également abandonner 🔵**Pureté des éléments** après avoir obtenu des tamings, car ils donnent une grande quantité de résistance.
+
+Gardez à l'esprit que lorsque vous abandonnez la pureté des éléments, vous voudrez atteindre 100 d'évitement d'altération. Vous obtiendrez 50% de la vision ancestrale, 30% de l'implicite de bottes et 20% de la roue de vie thick skin dans l'arbre.
+
+En entrant dans les cartes, je préfère utiliser 💚**hâte** et 🔴**colère** et échanger l'une d'elles contre 💚**grâce** dans les cartes rouges (t11+)
+
+---
+
+## 🟠**`Lethal pride`**
+
 Vous recherchez un lethal pride 2 double dégâts ou 3 DD - Ma vidéo sur comment les chercher efficacement - https://www.youtube.com/watch?v=_kYy-s_B-ng
 
----<span style="color: #E05030">Comment procéder au saignement pour cornered pray?</span>
-Les petits nœuds sur cette roue vous donnent déjà un % de chance de saigner et infliger n'importe quelle quantité de dégâts physiques peut saigner, donc même flèche foudroyante/tir tornade feront saigner les ennemis.
-Pour la frappe élémentaire, vous utiliserez un setup manaforged arrow avec ponction, pour garantir un saignement sur les boss.
-Une fois que vous avez <span style="color: #AF6025">Headhunter</span>, vous pouvez abandonner ce nœud, cela dépend juste du contenu que vous faites. Car il n'a pas une grande valeur si vous faites des stratégies de vitesse de clear maximale où vous one tap la plupart des packs.
+---
 
----<span style="color: #70FF70">Percer</span> vs <span style="color: #70FF70">bifurcation/chaîne</span>?
+## 🔴**Comment procéder au saignement pour cornered pray?**
+
+Les petits nœuds sur cette roue vous donnent déjà un % de chance de saigner et infliger n'importe quelle quantité de dégâts physiques peut saigner, donc même flèche foudroyante/tir tornade feront saigner les ennemis.
+
+Pour la frappe élémentaire, vous utiliserez un setup manaforged arrow avec ponction, pour garantir un saignement sur les boss.
+
+Une fois que vous avez 🟠**`Headhunter`**, vous pouvez abandonner ce nœud, cela dépend juste du contenu que vous faites. Car il n'a pas une grande valeur si vous faites des stratégies de vitesse de clear maximale où vous one tap la plupart des packs.
+
+---
+
+## 💚**Percer** vs 💚**bifurcation/chaîne**?
+
 Comme toujours, percer est juste l'option supérieure au début de ligue, car vous voulez généralement awakened fork avant de swap. Percer est juste un faible investissement d'implicite de gants ou 3 points passifs.
+
 Pour tir tornade cependant, vous voulez toujours être en chaîne sinon le clear est médiocre, car vous n'avez pas d'AoE à l'impact de flèche, ce qui rend percer agréable sur LA/Frappe élémentaire.
 
----<span style="color: #AF6025">Fledging</span> et <span style="color: #70FF70">deadeye far shot</span>, se cumulent-ils?
-Oui. Le nœud d'ascendance deadeye a juste le nom "far shot" mais donne une statistique unique différente, ce qui fait qu'il se cumule avec <span style="color: #AF6025">fledging</span>. Vous donnant jusqu'à 90% de dégâts en plus à portée maximale, qui est de 70 unités.
+---
 
----Est-ce que <span style="color: #AF6025">Taming</span> est obligatoire?
-Non. Bien que <span style="color: #AF6025">taming</span> soit très fort et c'est quelque chose que vous devriez prioriser, ce n'est pas nécessaire pour que le build fonctionne. Il fournit juste une tonne d'augmentation de dégâts et de résistance, ce qui en fait l'un des meilleurs anneaux que vous pouvez utiliser jusqu'aux anneaux miroir.
-<span style="color: #AF6025">Death rush</span> est aussi une très bonne option pour le pur blast de cartes. Mais ne fournit aucun avantage pour le bossing.
+## 🟠**`Fledging`** et 💚**deadeye far shot**, se cumulent-ils?
 
----Bonnes stats de <span style="color: #FFFF77">joyau</span>?
+Oui. Le nœud d'ascendance deadeye a juste le nom "far shot" mais donne une statistique unique différente, ce qui fait qu'il se cumule avec 🟠**`fledging`**. Vous donnant jusqu'à 90% de dégâts en plus à portée maximale, qui est de 70 unités.
+
+---
+
+## Est-ce que 🟠**`Taming`** est obligatoire?
+
+Non. Bien que 🟠**`taming`** soit très fort et c'est quelque chose que vous devriez prioriser, ce n'est pas nécessaire pour que le build fonctionne. Il fournit juste une tonne d'augmentation de dégâts et de résistance, ce qui en fait l'un des meilleurs anneaux que vous pouvez utiliser jusqu'aux anneaux miroir.
+
+🟠**`Death rush`** est aussi une très bonne option pour le pur blast de cartes. Mais ne fournit aucun avantage pour le bossing.
+
+---
+
+## Bonnes stats de 💛**joyau**?
+
 Pour la frappe élémentaire, tout multi critique fonctionne car la compétence utilise tous les éléments. Idéalement, vous voulez 2 multi sur votre joyau rare
+
 D'autres bonnes stats sont la vie, vitesse d'attaque, augmentation de dégâts, dégâts d'arc.
 
--------<span style="color: #FFFF77">Guide de craft</span>-------- Note: ce craft est seulement pour l'équipement haut de gamme. L'équipement vie+résistance vous pouvez simplement craft avec essence d'avidité, reforge de vie harvest ou simplement acheter sur le trade car c'est généralement bon marché.
-Note: lors du craft eldritch de vos implicites, vous voulez que votre mod désiré soit de niveau inférieur à votre mod non désiré avant l'orbe de conflit, cela augmente légèrement la chance de réussir. Cela ne fonctionne que jusqu'au niveau exceptionnel.
+---
+
+# 💛**Guide de craft**
+
+**Note:** ce craft est seulement pour l'équipement haut de gamme. L'équipement vie+résistance vous pouvez simplement craft avec essence d'avidité, reforge de vie harvest ou simplement acheter sur le trade car c'est généralement bon marché.
+
+**Note:** lors du craft eldritch de vos implicites, vous voulez que votre mod désiré soit de niveau inférieur à votre mod non désiré avant l'orbe de conflit, cela augmente légèrement la chance de réussir. Cela ne fonctionne que jusqu'au niveau exceptionnel.
+
 Beaucoup de cet équipement peut également être crafté avec des recombs, cela dépend simplement de ce qui est le moins cher à ce moment-là.
 
-<span style="color: #FFFF77">Arc:</span> La façon la plus simple de craft est d'utiliser des recombs pour un arc triple t2 préfixe.
+---
+
+## 💛**Arc:**
+
+La façon la plus simple de craft est d'utiliser des recombs pour un arc triple t2 préfixe.
+
 1) Aug des arcs spine ilvl 82 pour t2 ou mieux flat
 2) recomb 2 ensemble. Essentiellement, vous continuez à faire cette étape jusqu'à ce que vous vous retrouviez avec 2 arcs qui ont 2 préfixes chacun (les suffixes n'ont pas d'importance).
 3) Vous combinerez 2 de ces arcs ensemble (donc 2 préfixes avec 2 préfixes) - Vous avez juste besoin d'un de chaque élément, avec 1 chevauchement.
+
 Par exemple préfixe feu+froid avec feu+foudre. Cela vous donne 1/3 de chance de réussir le recomb et de finir avec un triple t2 préfixe.
+
 4) Maintenant avec les préfixes terminés, vous les verrouillez avec le craft d'établi (les préfixes ne peuvent pas être changés, 2 divines)
 5) Utilisez l'orbe de chaos voilé, cela ne reroll que vos suffixes. Sur dévoilement, vous recherchez crit ou vitesse d'attaque (crit est préférable, mais les deux fonctionnent).
 6) Craftez la stat que vous n'avez pas dévoilée, donc crit ou vitesse d'attaque et vous avez terminé.
 
-<span style="color: #FFFF77">Carquois</span>: Achetez un carquois fracturé +1 flèche ou base multi T1, de préférence sur carquois de flèches à plumes. Doit être au moins ilvl 81, (ilvl 86 est idéal cependant)
+---
+
+## 💛**Carquois:**
+
+Achetez un carquois fracturé +1 flèche ou base multi T1, de préférence sur carquois de flèches à plumes. Doit être au moins ilvl 81, (ilvl 86 est idéal cependant)
+
 1) Spammez l'essence de mépris jusqu'à ce que vous touchiez multi T1 (ou +1 flèche si vous avez une base multi fracturée).
 2) Vous avez maintenant besoin de 2 préfixes vides et 1 suffixe vide. Annulez si vous devez, forte chance de brick et si c'est le cas, retour à l'étape 1.
 3) Craftez cannot roll attack et utilisez une combinaison d'exaltés/annuls jusqu'à votre vie/augmentation de dégâts avec compétences d'arc désirée.
+
 Lorsque vous avez "craft cannot roll attack", vous ne pourrez pas annuler votre +1 flèche, ou multi ou dégâts physiques plats. Et vos seuls résultats d'exalté sont vie maximale et augmentation de dégâts avec compétences d'arc.
 
-<span style="color: #FFFF77">Plastron:</span> Achetez un plastron d'évasion fracturé résistance T1 ou suppression de sorts (mais la résistance est probablement beaucoup moins chère).
+---
+
+## 💛**Plastron:**
+
+Achetez un plastron d'évasion fracturé résistance T1 ou suppression de sorts (mais la résistance est probablement beaucoup moins chère).
+
 1) Spammez n'importe quelle essence de résistance jusqu'à ce que vous touchiez suppression de sorts T1 ou T2.
 2) Utilisez wild bristle matreon dans bestiaire pour un "suffixes cannot be changed" bon marché et ensuite utilisez reforge vie harvest, répétez jusqu'à vie t1 ou t2.
 
-<span style="color: #FFFF77">Casque:</span> Achetez un casque fracturé résistance au chaos T1.
+---
+
+## 💛**Casque:**
+
+Achetez un casque fracturé résistance au chaos T1.
+
 1) Spammez l'essence de dépit jusqu'à suppression de sorts T1 ou T2.
 2) Utilisez wild bristle matreon dans bestiaire pour un "suffixes cannot be changed" bon marché et ensuite utilisez reforge vie harvest, répétez jusqu'à vie t1 ou t2.
 
-<span style="color: #FFFF77">Gants avec socket abyssal.</span>
+---
+
+## 💛**Gants avec socket abyssal:**
+
 Pour commencer, vous devez acheter des gants avec soit "augmentation de dégâts contre les ennemis refroidis" ou "dégâts de feu ajoutés contre les ennemis en feu" ou "augmentation de chance de coup critique contre les ennemis choqués"
+
 Le type de base de ceux-ci n'a pas d'importance car vous allez recomb.
+
 1) Recomb ces gants avec des gants velour. La meilleure méthode que j'ai trouvée est juste de scour vos gants velour, recomb et priez.
 2) Après avoir le modificateur sur vos gants, n'hésitez pas à utiliser le banc de swap de résistance harvest pour obtenir votre mod de temple idéal/méthode moins chère que de diviner. Ensuite, utilisez un orbe de fracture et espérez qu'il touche
 3) Maintenant utilisez la combo de fossiles hollow-shuddering-sanctified jusqu'à vitesse d'attaque t1. Peut aussi annuler pour un suffixe ouvert, puis verrouiller les suffixes et reforge vitesse (si vous supprimez le socket abyssal, alors retournez aux fossiles).
 4) Utilisez wild bristle matreon dans bestiaire pour un "suffixes cannot be changed" bon marché et ensuite reforge vie harvest jusqu'à vie t1 ou t2.
 
-<span style="color: #FFFF77">Gants basiques (moins cher).</span> Achetez un gant fracturé résistance au chaos T1.
+---
+
+## 💛**Gants basiques (moins cher):**
+
+Achetez un gant fracturé résistance au chaos T1.
+
 1) Spammez l'essence de zèle jusqu'à n'importe quelle résistance t1 (puis utilisez le swap de résistance harvest pour quelle que soit la résistance qui vous manque).
 2) Utilisez wild bristle matreon dans bestiaire pour un "suffixes cannot be changed" bon marché et ensuite utilisez reforge vie harvest, répétez jusqu'à vie t1 ou t2.
 
-<span style="color: #FFFF77">Bottes:</span> Achetez un plastron d'évasion fracturé résistance T1 ou suppression de sorts (mais la résistance est probablement moins chère).
+---
+
+## 💛**Bottes:**
+
+Achetez un plastron d'évasion fracturé résistance T1 ou suppression de sorts (mais la résistance est probablement moins chère).
+
 1) Spammez n'importe quelle essence de résistance jusqu'à ce que vous touchiez suppression de sorts T1 ou T2.
 2) Utilisez wild bristle matreon dans bestiaire pour un "suffixes cannot be changed" bon marché et ensuite utilisez reforge vie harvest, répétez jusqu'à vie t1 ou t2.
 
-<span style="color: #FFFF77">Joyaux rares:</span> Pour frappe élémentaire
+---
+
+## 💛**Joyaux rares:**
+
+Pour frappe élémentaire
+
 1) Utilisez un joyau Viridien et spammez reforge crit sur le banc harvest, tout multi crit fonctionne car la frappe élémentaire utilise tous les éléments. Généralement, cherchez juste 3 stats solides (multi, vie, vitesse d'attaque, augmentation de dégâts, dégâts d'arc).
 
-<span style="color: #FFFF77">Clusters moyens:</span>
+---
+
+## 💛**Clusters moyens:**
+
 1) Vous spammez juste reforge vitesse harvest, annulez/exaltez quand nécessaire. Peut aussi fracturer un mod t1 si vous voulez faire un cluster moyen 4xT1. (avoir 3 mods, donc la fracture a 75% de chance de réussir).
 
-<span style="color: #FFFF77">Grands Clusters 12 passifs:</span>
+---
+
+## 💛**Grands Clusters 12 passifs:**
+
 1) Fracturez 35% d'effet, peut viser 3% vitesse d'attaque/35% d'effet pour une fracture 50/50.
 2) Spammez reforge vitesse harvest et exaltez/annulez quand vous touchez 3/4 mods. Spammez reforge vie si vous avez 3% vitesse d'attaque fracturée. C'est un processus long et coûteux.
+
 Peut se contenter de vie t2, mais vous avez besoin de 3% vitesse d'attaque/35% d'effet/4% toute résistance.
